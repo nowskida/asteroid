@@ -1,4 +1,4 @@
-#!/home/dawid/workspace/github.com/nowskida/asteroid/venv/bin/python3
+#!/Users/dawid/repos/github.com/nowskida/asteroid/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
